@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Name** | _your full name_ |
-| **Nickname** | _your nickname_ |
-| **Student ID** | _6xxxxxxxx_ |
+| **Name** | Napat Surakiatchai |
+| **Nickname** | Pat |
+| **Student ID** | 692115024 |
 | **Section** | 701 |
 
 ## How to run
